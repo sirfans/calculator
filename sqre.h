@@ -1,3 +1,3 @@
 void sqre(int x){
-	printf("%d",x*x);
+	printf("SQUARE OF %d is %d",x,x*x);
 }

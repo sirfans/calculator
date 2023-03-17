@@ -1,3 +1,3 @@
 void sum(int x,int y){
-	printf("%d",x+y);
+	printf("SUM OF %d and %d IS %d",x,y,x+y);
 }

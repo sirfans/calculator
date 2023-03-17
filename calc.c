@@ -4,6 +4,7 @@
 #include "mul.h"
 #include "div.h"
 #include "sqre.h"
+#include "cube.h"
 void main(){
 	int a=10,b=5;
 	sum(a,b);
@@ -15,5 +16,7 @@ void main(){
 	div(a,b);
 	printf("\n");
 	sqre(a);
+	printf("\n");
+	cube(a);
 }
 
